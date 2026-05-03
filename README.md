@@ -3,12 +3,11 @@
 
 A lightweight **Retrieval-Augmented Generation (RAG)** system built with FAISS, Sentence Transformers, and Mistral via OpenRouter.
 
----
+
 
 ## 🚀 Live Demo
-
-> Deploy link here (Streamlit Cloud / HuggingFace Spaces)
 ```
+> Deploy link here (Streamlit Cloud / HuggingFace Spaces)
 
 ## 🧠 How It Works
 ```
