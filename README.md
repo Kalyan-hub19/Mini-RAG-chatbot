@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🔍 Mini RAG Chatbot
 
 A lightweight **Retrieval-Augmented Generation (RAG)** system built with FAISS, Sentence Transformers, and Mistral via OpenRouter.
@@ -9,11 +9,9 @@ A lightweight **Retrieval-Augmented Generation (RAG)** system built with FAISS, 
 
 > Deploy link here (Streamlit Cloud / HuggingFace Spaces)
 
----
 
 ## 🧠 How It Works
 
-```
 User Query
     │
     ▼
@@ -30,13 +28,13 @@ LLM (Mistral-7B via OpenRouter)
     │
     ▼
 Grounded Answer + Retrieved Chunks shown in UI
-```
 
----
+
+
 
 ## 📂 Project Structure
 
-```
+
 mini-rag/
 │
 ├── data/
@@ -53,9 +51,8 @@ mini-rag/
 │
 ├── requirements.txt
 └── README.md
-```
 
----
+
 
 ## ⚙️ Setup & Run
 
@@ -124,9 +121,8 @@ prompt = """
 You are a helpful assistant. Answer ONLY using the context below.
 If the answer cannot be found, say "I don't know based on the provided documents."
 """
-```
 
----
+
 
 ## 🧪 Test Questions & Evaluation
 
@@ -162,6 +158,5 @@ If the answer cannot be found, say "I don't know based on the provided documents
 - [ ] Switch to `IndexIVFFlat` for large document sets
 - [ ] Add chunk-level citation highlighting in UI
 - [ ] Evaluation with RAGAS framework
-=======
+
 # Mini-RAG-chatbot
->>>>>>> deefdfb3f9d68130870c48c191deb333acd507ad
