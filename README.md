@@ -1,6 +1,6 @@
-```
-# 🔍 Mini RAG Chatbot
 
+# 🔍 Mini RAG Chatbot
+```
 A lightweight **Retrieval-Augmented Generation (RAG)** system built with FAISS, Sentence Transformers, and Mistral via OpenRouter.
 ```
 
