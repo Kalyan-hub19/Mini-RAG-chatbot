@@ -8,10 +8,10 @@ A lightweight **Retrieval-Augmented Generation (RAG)** system built with FAISS, 
 ## 🚀 Live Demo
 
 > Deploy link here (Streamlit Cloud / HuggingFace Spaces)
-
+```
 
 ## 🧠 How It Works
-
+```
 User Query
     │
     ▼
@@ -29,12 +29,12 @@ LLM (Mistral-7B via OpenRouter)
     ▼
 Grounded Answer + Retrieved Chunks shown in UI
 
-
+```
 
 
 ## 📂 Project Structure
 
-
+```
 mini-rag/
 │
 ├── data/
@@ -52,7 +52,7 @@ mini-rag/
 ├── requirements.txt
 └── README.md
 
-
+```
 
 ## ⚙️ Setup & Run
 
