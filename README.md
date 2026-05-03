@@ -5,7 +5,7 @@ A lightweight **Retrieval-Augmented Generation (RAG)** system built with FAISS, 
 
 
 
-## 🚀 Live Demo
+##  Live Demo
 ```
 > Deploy link here (Streamlit Cloud / HuggingFace Spaces)
 
@@ -54,14 +54,13 @@ mini-rag/
 ```
 
 ## ⚙️ Setup & Run
-
-### 1. Clone & install dependencies
-```bash
+```
+### 1. Clone & install dependencies bash
 git clone <your-repo-url>
 cd mini-rag
 pip install -r requirements.txt
 ```
-
+```
 ### 2. Get a free OpenRouter API key
 - Visit [https://openrouter.ai](https://openrouter.ai)
 - Create an account and get a free API key
@@ -139,7 +138,7 @@ If the answer cannot be found, say "I don't know based on the provided documents
 
 ---
 
-## 🚀 Deployment (Streamlit Cloud)
+##  Deployment (Streamlit Cloud)
 
 1. Push code to GitHub (ensure `.streamlit/secrets.toml` is in `.gitignore`)
 2. Go to [share.streamlit.io](https://share.streamlit.io)
