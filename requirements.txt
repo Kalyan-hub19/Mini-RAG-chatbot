@@ -1,0 +1,5 @@
+sentence-transformers==3.0.1
+faiss-cpu==1.8.0
+streamlit==1.35.0
+openai==1.35.0
+numpy==1.26.4

@@ -1,0 +1,17 @@
+Introduction to Artificial Intelligence and Machine Learning
+
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn. Machine Learning (ML) is a subset of AI where systems learn from data to improve their performance over time without being explicitly programmed.
+
+Supervised learning is the most common type of machine learning. In supervised learning, a model is trained on labeled data, meaning the input-output pairs are known. Examples include image classification, spam detection, and price prediction.
+
+Unsupervised learning involves finding patterns in data without labeled outputs. Clustering algorithms like K-Means group similar data points together. This technique is useful for customer segmentation, anomaly detection, and data compression.
+
+Deep learning is a subset of machine learning that uses neural networks with many layers. These deep neural networks are particularly powerful for tasks like image recognition, natural language processing, and speech recognition. They require large amounts of data and computational power.
+
+Natural Language Processing (NLP) enables computers to understand and generate human language. Key NLP tasks include sentiment analysis, text summarization, machine translation, and question answering. Transformer models like BERT and GPT have revolutionized NLP.
+
+Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with language model generation. Instead of relying solely on a model's training data, RAG retrieves relevant documents from a knowledge base and uses them as context to generate accurate, grounded answers.
+
+Model evaluation is essential to measure AI system performance. Common metrics include accuracy, precision, recall, F1-score for classification tasks, and BLEU score for text generation. Overfitting occurs when a model performs well on training data but poorly on unseen data.
+
+Bias in AI systems is a growing concern. Models trained on biased data can perpetuate or amplify societal inequalities. Responsible AI development includes testing for fairness, transparency in decision-making, and maintaining human oversight.
